@@ -1,4 +1,4 @@
-<a href="https://web.digitalinnovation.one/track/santander-fullstack-developer?tab=path"><img src="https://hermes.digitalinnovation.one/tracks/cover/9618271f-9dd2-4f70-b728-1f627b2a92ab.png"/></a>
+<a href="https://web.digitalinnovation.one/track/santander-fullstack-developer?tab=path"><img src="https://i.imgur.com/tWIaCPY.png"/></a>
 
 <h4 align="center"> 
 Santander Bootcamp | Fullstack Developer ♨️ Em andamento ⚠️

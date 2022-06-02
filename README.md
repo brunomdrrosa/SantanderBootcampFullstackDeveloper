@@ -1,8 +1,13 @@
-<a href="https://web.digitalinnovation.one/track/santander-fullstack-developer?tab=path"><img src="https://i.imgur.com/tWIaCPY.png"/></a>
+<a href="https://web.dio.me/track/santander-bootcamp-fullstack-developer"><img src="https://hermes.digitalinnovation.one/tracks/cover/99ac5d36-7363-4126-a05e-d0022e3314f5.png"/></a>
+
+<div align="center">
+  <img src="https://hermes.digitalinnovation.one/tracks/800fd098-3eef-45e9-9544-544ae396076c.png" width="175px">
+</div>
 
 <h4 align="center"> 
 Santander Bootcamp | Fullstack Developer ♨️ Em andamento ⚠️
 </h4>
+
 
 <p align="center">
  <a href="#-sobre">Sobre</a> •
@@ -18,19 +23,24 @@ Decidi me matricular na bolsa de estudos da Santander para conseguir um avanço 
 ⚙️ Tecnologias utilizadas
 
 <p>&nbsp;</p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
 </h3>
 
 ---
 
 ## 🚧 Projetos
 
-<h1 align="center">
-EM BREVE ⚠️
-</h1>
+<h3 align="center">Clone da página de login do Instagram 📷
+  <p></p>
+  <a href="https://github.com/brunomdrrosa/SantanderBootcampFullstackDeveloper/tree/main/CloneInstagram"><img src="https://i.imgur.com/rcCZECk.png"/></a>	
+</h3>
 
 ---
 
